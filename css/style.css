@@ -1,0 +1,22 @@
+* {
+    margin: 40;
+    padding: 40;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body {
+    background-color: rgb(174, 233, 221);
+    text-align: center;
+}
+
+img {
+    margin-bottom: 40px;
+}
+
+.biggest-population-marker {
+    border: 3px solid rgb(54, 2, 63);
+    margin: 10px auto;
+    padding: 5px;
+    width: 450px;
+}
